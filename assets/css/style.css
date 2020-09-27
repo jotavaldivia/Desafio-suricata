@@ -1,0 +1,57 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #FFFFFF;
+}
+
+.navpink {
+    background-color: #E83E8C;
+}
+
+.surinav {
+    color: #FFFFFF;
+    padding-right: 10%;
+    padding-left: 10%;
+
+}
+
+.logo-foot {
+    width: 36px;
+    padding-top: 30px;
+    padding-bottom: 53px;
+}
+
+@media (min-width: 376px) {
+    .logo-foot {
+        width: 53px;
+    }
+}
+
+.pagos {
+    background-color: #17A2B8;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.pagos i {
+    padding-left: 30px;
+}
+
+h2 {
+    font-size: 40px;
+    margin: auto 0;
+}
+
+h1 {
+    color: #707070;
+    font-size: 65px;
+}
+
+@media (max-width:375px) {
+    h1 {
+        font-size: 40px;
+    }
+}
+
+.logo-nav {
+    width: 132px;
+}
